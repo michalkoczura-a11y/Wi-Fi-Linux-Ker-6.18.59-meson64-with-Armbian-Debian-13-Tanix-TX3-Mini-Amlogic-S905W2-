@@ -1,0 +1,1 @@
+# Wi-Fi-Linux-Ker-6.18.59-meson64-with-Armbian-Debian-13-Tanix-TX3-Mini-Amlogic-S905W2-
